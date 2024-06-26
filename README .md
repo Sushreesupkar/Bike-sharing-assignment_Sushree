@@ -11,6 +11,4 @@ Created by [@Sushreesupkar] - feel free to contact me!
 
 <!-- Optional -->
 <!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
+<!-- This project is open source and available under https://github.com/Sushreesupkar/Bike-sharing-assignment_Sushree
